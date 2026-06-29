@@ -1,0 +1,1702 @@
+canonical_identifier: bkk:krp/KR3eg037/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eg037/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 痧脹玉衡
+  identifiers:
+    krp: KR3eg037
+  tags:
+    kr-categories: KR3eg
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg037.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3eg037_001-jc.yaml, hash: 'sha256:aed3b49c046572c0869f6b73cb885847a8ba38049297a7b9331444bd1de3ab44'}
+  - {seq: 2, filename: KR3eg037_002-jc.yaml, hash: 'sha256:2f25ad1c514c4b5787685fe0c39b885ab251c5f8878b7f7d6183ba5edfd4c203'}
+  - {seq: 3, filename: KR3eg037_003-jc.yaml, hash: 'sha256:e8807c92a347751b3f4bfc6638bd79edd4f096bbf3d978f115d1aaa0efe7d0d0'}
+  - {seq: 4, filename: KR3eg037_004-jc.yaml, hash: 'sha256:b71c28c1c8eba104ed143e042b337162b89076abee8a0c5b29c3694cf33f178d'}
+  - {seq: 5, filename: KR3eg037_005-jc.yaml, hash: 'sha256:08e35a02a0413bcfedb61005c2e315b5b7fd6db954607ca658e9eade0665e432'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3eg037_001-jc.markers.yaml, hash: 'sha256:a2c92607f8539ef789cf80041fb11569bc9b7ae9f1d189df8b060818bdb21377'}
+  - {seq: 2, role: markers, filename: assets/KR3eg037_002-jc.markers.yaml, hash: 'sha256:1603c4657b310772e4fd8dad3fc14b4893ff8e25be23921ca5d20058d69f2ddd'}
+  - {seq: 3, role: markers, filename: assets/KR3eg037_003-jc.markers.yaml, hash: 'sha256:b3ccef2b05d876331ec041449c5ad2540081b911ac5bdd6b372c1091d3bf393a'}
+  - {seq: 4, role: markers, filename: assets/KR3eg037_004-jc.markers.yaml, hash: 'sha256:4cb71855eec2fde39ea6914e0b5837efed929b490a7ff08a83879cbb34a7a720'}
+  - {seq: 5, role: markers, filename: assets/KR3eg037_005-jc.markers.yaml, hash: 'sha256:5f48f3b52723c3765ab472a62ec756ed653b7d029534f12d10133def908d1434'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3eg037_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 533
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eg037_jc_000-d3.h1s1
+    span:
+    - front
+    - 533
+    - 1342
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eg037_jc_000-d4.h1s1
+    span:
+    - front
+    - 1342
+    - 1535
+  label: 續序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eg037_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 229
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.h1s1
+    span:
+    - body
+    - 0
+    - 13878
+  label: 卷之上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6d2
+    span:
+    - body
+    - 3
+    - 1172
+  label: 痧症發蒙論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6d3
+    span:
+    - body
+    - 1172
+    - 8689
+  label: 玉衡要語
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d2
+    span:
+    - body
+    - 1176
+    - 1497
+  label: 痧分表裡辨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d3
+    span:
+    - body
+    - 1497
+    - 1689
+  label: 治痧宜看涼熱
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d4
+    span:
+    - body
+    - 1689
+    - 1783
+  label: 唇舌辨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d5
+    span:
+    - body
+    - 1783
+    - 1814
+  label: 大小便宜通
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d6
+    span:
+    - body
+    - 1814
+    - 1869
+  label: 咽喉治法
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d7
+    span:
+    - body
+    - 1869
+    - 2006
+  label: 治痧當絕其根
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d8
+    span:
+    - body
+    - 2006
+    - 2092
+  label: 痧原論
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d9
+    span:
+    - body
+    - 2092
+    - 2344
+  label: 治痧當分經絡
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d10
+    span:
+    - body
+    - 2344
+    - 2420
+  label: 痧與雜症輕重不同
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d11
+    span:
+    - body
+    - 2420
+    - 2493
+  label: 治痧三法
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d12
+    span:
+    - body
+    - 2493
+    - 2563
+  label: 痧前禁忌
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d13
+    span:
+    - body
+    - 2563
+    - 2602
+  label: 痧後禁忌
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d14
+    span:
+    - body
+    - 2602
+    - 2714
+  label: 痧脹凶症
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d15
+    span:
+    - body
+    - 2714
+    - 2834
+  label: 痧為百病變症
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d16
+    span:
+    - body
+    - 2834
+    - 2927
+  label: 醫家當識痧筋
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d17
+    span:
+    - body
+    - 2927
+    - 3028
+  label: 放痧有十
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d18
+    span:
+    - body
+    - 3028
+    - 3193
+  label: 放痧須放盡
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d19
+    span:
+    - body
+    - 3193
+    - 3443
+  label: 痧有放刮不盡辨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d20
+    span:
+    - body
+    - 3443
+    - 3665
+  label: 用藥不效
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d21
+    span:
+    - body
+    - 3665
+    - 3833
+  label: 用藥必效
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d22
+    span:
+    - body
+    - 3833
+    - 3943
+  label: 用藥大法
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d23
+    span:
+    - body
+    - 3943
+    - 4294
+  label: 痧有實而無虛辨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d24
+    span:
+    - body
+    - 4294
+    - 4595
+  label: 怪病之謂痧
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d25
+    span:
+    - body
+    - 4595
+    - 4950
+  label: 痧筋不同辨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d26
+    span:
+    - body
+    - 4950
+    - 5327
+  label: 寒痧辨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d27
+    span:
+    - body
+    - 5327
+    - 5671
+  label: 放痧不出治法
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d28
+    span:
+    - body
+    - 5671
+    - 5938
+  label: 放痧數次不愈
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d29
+    span:
+    - body
+    - 5938
+    - 6205
+  label: 數犯痧症
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d30
+    span:
+    - body
+    - 6205
+    - 6478
+  label: 痧脹昏迷與雜症不同
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d31
+    span:
+    - body
+    - 6478
+    - 6701
+  label: 痧筋原於血中之毒
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d32
+    span:
+    - body
+    - 6701
+    - 6916
+  label: 慢痧必須速治
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d33
+    span:
+    - body
+    - 6916
+    - 7266
+  label: 痧症治要宜明
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d34
+    span:
+    - body
+    - 7266
+    - 7620
+  label: 治痧須先明百病
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d35
+    span:
+    - body
+    - 7620
+    - 7786
+  label: 刺腿彎痧筋法
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d36
+    span:
+    - body
+    - 7786
+    - 7856
+  label: 刮痧法
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d37
+    span:
+    - body
+    - 7856
+    - 7968
+  label: 用針說
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d38
+    span:
+    - body
+    - 7968
+    - 8063
+  label: 痧脹用藥不厭多
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d39
+    span:
+    - body
+    - 8063
+    - 8248
+  label: 痧脹宜下辨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d40
+    span:
+    - body
+    - 8248
+    - 8399
+  label: 痧後治雜症宜知
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d3d41
+    span:
+    - body
+    - 8399
+    - 8689
+  label: 當知不信之誤
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6d4
+    span:
+    - body
+    - 8689
+    - 10857
+  label: 玉衡脈法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d4d2
+    span:
+    - body
+    - 8693
+    - 8800
+  label: 痧脈十二經辨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d4d3
+    span:
+    - body
+    - 8800
+    - 8874
+  label: 痧脈外感內傷辨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d4d4
+    span:
+    - body
+    - 8874
+    - 9632
+  label: 痧脈要訣
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d4d5
+    span:
+    - body
+    - 9632
+    - 9945
+  label: 痧脈有似陰症辨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d4d6
+    span:
+    - body
+    - 9945
+    - 10187
+  label: 痧脈似氣血有餘辨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d4d7
+    span:
+    - body
+    - 10187
+    - 10629
+  label: 方書脈句宜參
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d4d8
+    span:
+    - body
+    - 10629
+    - 10789
+  label: 脈貴審於幾先
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d4d9
+    span:
+    - body
+    - 10789
+    - 10857
+  label: 痧脈決生死法
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6d5
+    span:
+    - body
+    - 10857
+    - 13878
+  label: 此下細述發蒙論所不盡
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d5d4
+    span:
+    - body
+    - 10911
+    - 11503
+  label: 暗痧辨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d5d5
+    span:
+    - body
+    - 11503
+    - 12092
+  label: 傷寒兼痧
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d5d6
+    span:
+    - body
+    - 12092
+    - 13148
+  label: 痧症類傷寒
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d5d7
+    span:
+    - body
+    - 13148
+    - 13340
+  label: 痧類瘧疾
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3eg037_jc_001-d6.d5d8
+    span:
+    - body
+    - 13340
+    - 13878
+  label: 瘧疾兼痧
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7.h1s1
+    span:
+    - body
+    - 0
+    - 9283
+  label: 卷之中
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d2
+    span:
+    - body
+    - 3
+    - 586
+  label: 遍身腫脹痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d3
+    span:
+    - body
+    - 586
+    - 774
+  label: 悶痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d4
+    span:
+    - body
+    - 774
+    - 1047
+  label: 落弓痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d5
+    span:
+    - body
+    - 1047
+    - 1264
+  label: 噤口痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d6
+    span:
+    - body
+    - 1264
+    - 1298
+  label: 角弓痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d7
+    span:
+    - body
+    - 1298
+    - 1498
+  label: 撲鵝痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d8
+    span:
+    - body
+    - 1498
+    - 1671
+  label: 傷風咳嗽痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d9
+    span:
+    - body
+    - 1671
+    - 1975
+  label: 痘前痧脹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d10
+    span:
+    - body
+    - 1975
+    - 2334
+  label: 痘後痧脹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d11
+    span:
+    - body
+    - 2334
+    - 2583
+  label: 胎前產後痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d12
+    span:
+    - body
+    - 2583
+    - 2810
+  label: 胎前痧痛論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d13
+    span:
+    - body
+    - 2810
+    - 3562
+  label: 產後痧痛論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d14
+    span:
+    - body
+    - 3562
+    - 3697
+  label: 倒經痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d15
+    span:
+    - body
+    - 3697
+    - 4125
+  label: 痧熱頭汗痧狂譫語附
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d16
+    span:
+    - body
+    - 4125
+    - 4315
+  label: 痧煩痧睡
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d17
+    span:
+    - body
+    - 4315
+    - 4709
+  label: 老弱兼痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d18
+    span:
+    - body
+    - 4709
+    - 4920
+  label: 瘡症兼痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d19
+    span:
+    - body
+    - 4920
+    - 5231
+  label: 弱症兼痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d20
+    span:
+    - body
+    - 5231
+    - 5644
+  label: 痧變勞瘵
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d21
+    span:
+    - body
+    - 5644
+    - 5790
+  label: 膨脹兼痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d22
+    span:
+    - body
+    - 5790
+    - 5929
+  label: 痧變臌脹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d23
+    span:
+    - body
+    - 5929
+    - 6264
+  label: 半身不遂痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d24
+    span:
+    - body
+    - 6264
+    - 6569
+  label: 內傷兼痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d25
+    span:
+    - body
+    - 6569
+    - 6806
+  label: 紫疱痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d26
+    span:
+    - body
+    - 6806
+    - 7266
+  label: 痰喘氣急痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d27
+    span:
+    - body
+    - 7266
+    - 7452
+  label: 痧瘋
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d28
+    span:
+    - body
+    - 7452
+    - 7685
+  label: 痧重
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d29
+    span:
+    - body
+    - 7685
+    - 7943
+  label: 眼目痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d30
+    span:
+    - body
+    - 7943
+    - 8380
+  label: 瘟痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d31
+    span:
+    - body
+    - 8380
+    - 8491
+  label: 頭眩偏痛痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d32
+    span:
+    - body
+    - 8491
+    - 9014
+  label: 流火流痰痧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg037_jc_002-d7d33
+    span:
+    - body
+    - 9014
+    - 9283
+  label: 咳嗽嘔噦痧
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg037_jc_003-d8.h1s1
+    span:
+    - body
+    - 0
+    - 9735
+  label: 卷之下
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3eg037_jc_003-d8d2
+    span:
+    - body
+    - 3
+    - 312
+  label: 霍亂痧
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg037_jc_003-d8d3
+    span:
+    - body
+    - 312
+    - 800
+  label: 絞痛痧
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg037_jc_003-d8d4
+    span:
+    - body
+    - 800
+    - 1025
+  label: 脅痛痧
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg037_jc_003-d8d5
+    span:
+    - body
+    - 1025
+    - 1632
+  label: 痧痢
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg037_jc_003-d8d6
+    span:
+    - body
+    - 1632
+    - 1763
+  label: 蛔結痧
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg037_jc_003-d8d7
+    span:
+    - body
+    - 1763
+    - 1987
+  label: 頭痛痧
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg037_jc_003-d8d8
+    span:
+    - body
+    - 1987
+    - 2146
+  label: 心痛痧
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg037_jc_003-d8d9
+    span:
+    - body
+    - 2146
+    - 2312
+  label: 腰痛痧
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg037_jc_003-d8d10
+    span:
+    - body
+    - 2312
+    - 2513
+  label: 小腹痛痧
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg037_jc_003-d8d11
+    span:
+    - body
+    - 2513
+    - 2833
+  label: 痧塊
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg037_jc_003-d8d12
+    span:
+    - body
+    - 2833
+    - 3095
+  label: 痧變吐血鼻衄便紅
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg037_jc_003-d8d13
+    span:
+    - body
+    - 3095
+    - 3345
+  label: 吐蛔瀉蛔痧
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg037_jc_003-d8d14
+    span:
+    - body
+    - 3345
+    - 3758
+  label: 痧變腫毒
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg037_jc_003-d8d15
+    span:
+    - body
+    - 3758
+    - 7644
+  label: 備用要方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg037_jc_003-d8d16
+    span:
+    - body
+    - 7644
+    - 9230
+  label: 藥性便覽
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg037_jc_003-d8d17
+    span:
+    - body
+    - 9230
+    - 9482
+  label: 痧方余議
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg037_jc_003-d8d18
+    span:
+    - body
+    - 9482
+    - 9599
+  label: 評半夏藿香止吐
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eg037_jc_003-d8d19
+    span:
+    - body
+    - 9599
+    - 9735
+  label: 評荊芥細辛防風獨活
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9.h1s1
+    span:
+    - body
+    - 0
+    - 16691
+  label: 後卷
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d2
+    span:
+    - body
+    - 2
+    - 192
+  label: 痧脹看症法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d3
+    span:
+    - body
+    - 192
+    - 317
+  label: 放痧辨
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d4
+    span:
+    - body
+    - 317
+    - 497
+  label: 痧脹麻疹不同辨
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d5
+    span:
+    - body
+    - 497
+    - 565
+  label: 痧脹治猶麻疹論
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d6
+    span:
+    - body
+    - 565
+    - 743
+  label: 痘麻穢觸相同
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d7
+    span:
+    - body
+    - 743
+    - 999
+  label: 兼痧傷寒不同辨
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d8
+    span:
+    - body
+    - 999
+    - 1466
+  label: 諸痛類痧辨
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d9
+    span:
+    - body
+    - 1466
+    - 1568
+  label: 諸症不類痧辨
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d10
+    span:
+    - body
+    - 1568
+    - 1761
+  label: 論脹
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d11
+    span:
+    - body
+    - 1761
+    - 2157
+  label: 凝壅聚結辨
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d12
+    span:
+    - body
+    - 2157
+    - 3258
+  label: 治痧救人脈論
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d13
+    span:
+    - body
+    - 3258
+    - 3333
+  label: 痧筋統說
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d14
+    span:
+    - body
+    - 3333
+    - 3793
+  label: 傷風痧脈辨
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d15
+    span:
+    - body
+    - 3793
+    - 4472
+  label: 眩暈痧脈辨
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d16
+    span:
+    - body
+    - 4472
+    - 5074
+  label: 痧脹舌胎論
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d17
+    span:
+    - body
+    - 5074
+    - 5442
+  label: 麻疹兼痧脹
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d18
+    span:
+    - body
+    - 5442
+    - 5973
+  label: 痧脹兼麻疹
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d19
+    span:
+    - body
+    - 5973
+    - 6750
+  label: 痧脹類麻疹
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d20
+    span:
+    - body
+    - 6750
+    - 7206
+  label: 麻疹後復痧脹
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d21
+    span:
+    - body
+    - 7206
+    - 7730
+  label: 麻疹夾痧脹蛔結
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d22
+    span:
+    - body
+    - 7730
+    - 8216
+  label: 傷寒黃癍兼痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d23
+    span:
+    - body
+    - 8216
+    - 8744
+  label: 痧類陰症
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d24
+    span:
+    - body
+    - 8744
+    - 9141
+  label: 呃逆痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d25
+    span:
+    - body
+    - 9141
+    - 9404
+  label: 盤腸痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d26
+    span:
+    - body
+    - 9404
+    - 9855
+  label: 自汗盜汗驚惶痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d27
+    span:
+    - body
+    - 9855
+    - 10090
+  label: 痧類三瘧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d28
+    span:
+    - body
+    - 10090
+    - 10504
+  label: 咽喉諸症兼痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d29
+    span:
+    - body
+    - 10504
+    - 10735
+  label: 口舌兼痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d30
+    span:
+    - body
+    - 10735
+    - 10901
+  label: 類瘋痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d31
+    span:
+    - body
+    - 10901
+    - 11166
+  label: 黃氣病兼痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d32
+    span:
+    - body
+    - 11166
+    - 11327
+  label: 翻胃噎膈痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d33
+    span:
+    - body
+    - 11327
+    - 11496
+  label: 筋骨疼痛痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d34
+    span:
+    - body
+    - 11496
+    - 11751
+  label: 鬼箭痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d35
+    span:
+    - body
+    - 11751
+    - 11993
+  label: 久瀉肉瘦痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d36
+    span:
+    - body
+    - 11993
+    - 12134
+  label: 婦人隱疾痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d37
+    span:
+    - body
+    - 12134
+    - 12331
+  label: 腳氣痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d38
+    span:
+    - body
+    - 12331
+    - 12472
+  label: 耳痛痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d39
+    span:
+    - body
+    - 12472
+    - 12563
+  label: 手臂痛痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d40
+    span:
+    - body
+    - 12563
+    - 12821
+  label: 腫毒夾痧辨
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d41
+    span:
+    - body
+    - 12821
+    - 12923
+  label: 刺蝥瘟痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d42
+    span:
+    - body
+    - 12923
+    - 12973
+  label: 地葡瘟痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d43
+    span:
+    - body
+    - 12973
+    - 13107
+  label: 痧變發頤
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d44
+    span:
+    - body
+    - 13107
+    - 13866
+  label: 急救逆痘要法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d45
+    span:
+    - body
+    - 13866
+    - 13997
+  label: 癇症兼痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d46
+    span:
+    - body
+    - 13997
+    - 14096
+  label: 麻木酸癢痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d47
+    span:
+    - body
+    - 14096
+    - 14715
+  label: 頭虛足腫痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d48
+    span:
+    - body
+    - 14715
+    - 14888
+  label: 黃疸痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d49
+    span:
+    - body
+    - 14888
+    - 15040
+  label: 小兒夜啼痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d50
+    span:
+    - body
+    - 15040
+    - 15257
+  label: 驚風痰熱痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d51
+    span:
+    - body
+    - 15257
+    - 15581
+  label: 死症痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d52
+    span:
+    - body
+    - 15581
+    - 15743
+  label: 羊毛瘟痧
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eg037_jc_NaN-d9d53
+    span:
+    - body
+    - 15743
+    - 16691
+  label: 痧脹破迷論
+  type: section
+  level: 2
+hash: sha256:e9fb84f6813b651151820d6cd917d8fe0d13f46bede82652d210f5333fcc85d6
