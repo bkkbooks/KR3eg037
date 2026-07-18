@@ -26,7 +26,7 @@ assets:
   - {seq: 1, role: markers, filename: assets/KR3eg037_001-jc.markers.yaml, hash: 'sha256:a2c92607f8539ef789cf80041fb11569bc9b7ae9f1d189df8b060818bdb21377'}
   - {seq: 2, role: markers, filename: assets/KR3eg037_002-jc.markers.yaml, hash: 'sha256:1603c4657b310772e4fd8dad3fc14b4893ff8e25be23921ca5d20058d69f2ddd'}
   - {seq: 3, role: markers, filename: assets/KR3eg037_003-jc.markers.yaml, hash: 'sha256:b3ccef2b05d876331ec041449c5ad2540081b911ac5bdd6b372c1091d3bf393a'}
-  - {seq: 4, role: markers, filename: assets/KR3eg037_004-jc.markers.yaml, hash: 'sha256:4cb71855eec2fde39ea6914e0b5837efed929b490a7ff08a83879cbb34a7a720'}
+  - {seq: 4, role: markers, filename: assets/KR3eg037_004-jc.markers.yaml, hash: 'sha256:2157c3b6d9d6310ae8affe37826e7ef30b50838f1ce54156305454ef0c1a9876'}
   - {seq: 5, role: markers, filename: assets/KR3eg037_005-jc.markers.yaml, hash: 'sha256:5f48f3b52723c3765ab472a62ec756ed653b7d029534f12d10133def908d1434'}
 table_of_contents:
 - ref:
@@ -1699,4 +1699,4 @@ table_of_contents:
   label: 痧脹破迷論
   type: section
   level: 2
-hash: sha256:e9fb84f6813b651151820d6cd917d8fe0d13f46bede82652d210f5333fcc85d6
+hash: sha256:df752ec1a30ba8b4ff3a8c83b7409443152fa4d35ae14f4217042d83dd1db6dc
